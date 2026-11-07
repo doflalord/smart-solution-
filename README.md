@@ -1,4 +1,4 @@
-# 🚀 Smart Solutions - Software Development & IT Agency Landing Page
+# Smart Solutions - Software Development & IT Agency Landing Page
 
 **Smart Solutions** is a modern, responsive corporate landing page designed for a software development and IT solutions agency. Built entirely with vanilla HTML5, CSS3, and JavaScript, it showcases company services, a project portfolio, client testimonials, pricing tiers, and interactive forms powered by the browser's `localStorage`.
 
@@ -65,7 +65,7 @@ You only need a modern web browser (Chrome, Firefox, Edge, Safari). No build too
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/smart-solutions.git
+   git clone https://github.com/doflalord/smart-solutions.git
    ```
 2. **Navigate to the project directory:**
    ```bash
